@@ -84,6 +84,7 @@ section label:hover{
   color: rgba(0, 0, 0, 0.35);
   font-size: 12px;
   margin: -80px auto 8px;
+  letter-spacing: 7px;
 }
 .hr-sect::before,
 .hr-sect::after {
